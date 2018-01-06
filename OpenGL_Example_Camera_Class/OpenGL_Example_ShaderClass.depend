@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1514114807 source:c:\users\angtr\desktop\test\main.cpp
+	<windows.h>
+	<GL/glew.h>
+	<GL/glfw3.h>
+	<glm/glm.hpp>
+	<cassert>
+	<stdexcept>
+	<iostream>
+	"Shader.h"
+
+1514113615 c:\users\angtr\desktop\test\shader.h
+	<GL/glew.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1514529701 source:c:\users\angtr\desktop\opengl_example_shaderclass\main.cpp
+	<windows.h>
+	<GL/glew.h>
+	<GL/glfw3.h>
+	<glm/glm.hpp>
+	<cassert>
+	<stdexcept>
+	<stb_image.h>
+	<iostream>
+	"Shader.h"
+
+1514526083 c:\users\angtr\desktop\opengl_example_shaderclass\shader.h
+	<GL/glew.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1514546093 source:c:\users\angtr\desktop\opengl_example_textures\main.cpp
+	<windows.h>
+	<GL/glew.h>
+	<GL/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<cassert>
+	<stdexcept>
+	<stb_image.h>
+	<iostream>
+	"Shader.h"
+
+1514544156 c:\users\angtr\desktop\opengl_example_textures\shader.h
+	<GL/glew.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1514734295 source:c:\users\angtr\desktop\opengl_example_transmat\main.cpp
+	<windows.h>
+	<GL/glew.h>
+	<GL/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<cassert>
+	<stdexcept>
+	<stb_image.h>
+	<iostream>
+	"Shader.h"
+
+1514544156 c:\users\angtr\desktop\opengl_example_transmat\shader.h
+	<GL/glew.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1514911159 source:c:\users\angtr\desktop\opengl_example_coordinatesystem\main.cpp
+	<windows.h>
+	<GL/glew.h>
+	<GL/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<cassert>
+	<stdexcept>
+	<stb_image.h>
+	<iostream>
+	"Shader.h"
+
+1514544156 c:\users\angtr\desktop\opengl_example_coordinatesystem\shader.h
+	<GL/glew.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1515167515 source:c:\users\angtr\desktop\opengl_example_camera\main.cpp
+	<windows.h>
+	<GL/glew.h>
+	<GL/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<cassert>
+	<stdexcept>
+	<stb_image.h>
+	<iostream>
+	"Shader.h"
+	"Camera.h"
+
+1514544156 c:\users\angtr\desktop\opengl_example_camera\shader.h
+	<GL/glew.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1515167041 c:\users\angtr\desktop\opengl_example_camera\camera.h
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
